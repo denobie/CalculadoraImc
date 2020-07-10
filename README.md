@@ -1,4 +1,4 @@
-# calculadoraimc - App de uma Calculadora de IMC desenvolvida em Flutter
+# App de uma Calculadora de IMC desenvolvida em Flutter
 
 A new Flutter application.
 
